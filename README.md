@@ -14,7 +14,7 @@ The contributions are :
 1. the use of a Multiple Instance Learning (MIL)-inspired loss function to perform sound event detection (SED),
 2. the introduction of a cosine similarity penalty term to enhance the discriminative power of the network.
 
-This lengthy (but structured:)) python3 notebook allows to train and test two Recurrent Convolutional Neural Networks (CRNN):
+This lengthy (but structured:)) python3 notebook allows to train and test two Recurrent Convolutional Neural Networks (CRNN) in Keras with Tensorflow:
 
 1. audio tagging (AT), i.e. multi-label classification at recording level, 
 
