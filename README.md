@@ -43,5 +43,5 @@ If you use this code, please consider citing:
 
 Reference
 
-[1] "Large-scale weakly supervised audio classification using gated convolutional neural network", in Proc. ICASSP2018 https://arxiv.org/abs/1710.00343, code: https://github.com/yongxuUSTC/dcase2017_task4_cvssp
+[1] Yong Xu, Qiuqiang Kong, Wenwu Wang, Mark D. Plumbley. "Large-scale weakly supervised audio classification using gated convolutional neural network", in Proc. ICASSP2018 https://arxiv.org/abs/1710.00343, code: https://github.com/yongxuUSTC/dcase2017_task4_cvssp
 
